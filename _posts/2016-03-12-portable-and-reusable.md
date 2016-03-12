@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T19:22:42.361Z'
-dateModified: '2016-03-12T19:22:33.862Z'
+datePublished: '2016-03-12T19:24:10.761Z'
+dateModified: '2016-03-12T19:23:01.566Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: portable-and-reusable/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7376478-16fb-4629-9164-d8396715b394.png)
