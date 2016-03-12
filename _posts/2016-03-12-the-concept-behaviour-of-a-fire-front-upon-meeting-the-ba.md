@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Behaviour of a fire-front upon meeting the barrier.\_"
-datePublished: '2016-03-12T16:29:08.701Z'
-dateModified: '2016-03-12T16:28:05.338Z'
+description: 'Physical barrier, against flames and hot gases, which by convection will tend to rise in front of the screen and will be affected by the wind dynamics'
+datePublished: '2016-03-12T16:34:52.934Z'
+dateModified: '2016-03-12T16:34:52.623Z'
 title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
@@ -33,3 +33,4 @@ _type: Article
 **Strength**. The screen or barrier offers high resistance to three basic factors:  1\.**heat** - withstanding high temperatures without losing its qualities;  2\.**flames** - it is fireproof and does not catch fire when it comes into contact with flames; or when **mechanically** stressed. Furthermore, its installation systems are 3\. **sufficiently stable**, mainly against the wind
 
 **Adaptability.** The material used is easy to adapt to uneven, broken land, often rocky and overgrown
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3df279d-f2b5-4469-9980-aa9350fb315b.jpg)
