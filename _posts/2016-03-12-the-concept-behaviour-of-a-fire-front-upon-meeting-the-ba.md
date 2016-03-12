@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Physical barrier, against flames and hot gases, which by convection will tend to rise in front of the screen and will be affected by the wind dynamics'
-datePublished: '2016-03-12T16:45:04.701Z'
-dateModified: '2016-03-12T16:44:51.883Z'
+datePublished: '2016-03-12T16:45:27.957Z'
+dateModified: '2016-03-12T16:45:10.404Z'
 title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
