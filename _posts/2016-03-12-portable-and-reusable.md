@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T18:24:09.792Z'
-dateModified: '2016-03-12T18:23:34.775Z'
+datePublished: '2016-03-12T18:27:30.721Z'
+dateModified: '2016-03-12T18:27:14.522Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -37,12 +37,7 @@ _type: Article
 > * Fire protection system for private homes, houses and residential estates and other installations close to or inside forests or agricultural areas
 > * Personal and vehicles fire protection in the event of a forest fire
 > * Fire emergency protection for natural surroundings 
-> 
-> 
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf224be0-395c-4a07-b0fa-03e9a9d66ea9.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6c3588d-858e-4644-8e45-63d59e4999de.jpg)
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10dc484d-1e63-4232-b9ba-870ae89e20f3.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96e12b2e-b665-4f9d-8d51-8f370b7b0b2d.png)
