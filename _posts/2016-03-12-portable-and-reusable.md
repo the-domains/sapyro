@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RAPID INSTALLATION WHEREVER NEEDED
-datePublished: '2016-03-12T16:42:34.606Z'
-dateModified: '2016-03-12T16:42:24.659Z'
+datePublished: '2016-03-12T16:58:29.490Z'
+dateModified: '2016-03-12T16:58:16.246Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -24,10 +24,7 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc23734e88f8b3de4be83cdff411c3276d143e12.png)
 
-* **PORTABLE AND REUSABLE**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b754fa14f63aadb3bd1473d189a679c708f61a30.png)
-
-**_FIRE__BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES_**
+* **FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/52d3490907ef091997dd8aec2cb0f743421d35b8.png)
 
 * Easy transportable for controlling and extinguishing forest fires
@@ -35,6 +32,7 @@ _type: Article
 * Support for backfires and back burns
 
 * Controlled burning
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b754fa14f63aadb3bd1473d189a679c708f61a30.png)
 
 * Fire breaks
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a1b30dc75f14d13b518a11328863a7931351ba8.png)
