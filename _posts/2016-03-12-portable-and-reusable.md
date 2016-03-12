@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RAPID INSTALLATION WHEREVER NEEDED
-datePublished: '2016-03-12T16:22:28.549Z'
-dateModified: '2016-03-12T16:15:21.829Z'
+datePublished: '2016-03-12T16:37:59.925Z'
+dateModified: '2016-03-12T16:37:53.239Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -22,10 +22,10 @@ url: portable-and-reusable/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e46d154a-6e9c-4232-9afa-47e801cba6c0.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bc23734e88f8b3de4be83cdff411c3276d143e12.png)
 
 * **PORTABLE AND REUSABLE**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b69b6791-0905-41cd-92e0-2e028b84f807.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b754fa14f63aadb3bd1473d189a679c708f61a30.png)
 
 **FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fa1575-a753-4185-af40-c2c8110e4506.png)
