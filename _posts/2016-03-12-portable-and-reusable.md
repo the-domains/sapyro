@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RAPID INSTALLATION WHEREVER NEEDED
-datePublished: '2016-03-12T16:37:59.925Z'
-dateModified: '2016-03-12T16:37:53.239Z'
+datePublished: '2016-03-12T16:42:20.146Z'
+dateModified: '2016-03-12T16:42:13.638Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -27,22 +27,22 @@ _type: Article
 * **PORTABLE AND REUSABLE**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b754fa14f63aadb3bd1473d189a679c708f61a30.png)
 
-**FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fa1575-a753-4185-af40-c2c8110e4506.png)
+**_FIRE__BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES_**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/52d3490907ef091997dd8aec2cb0f743421d35b8.png)
 
-Easy transportable for controlling and extinguishing forest fires
+* Easy transportable for controlling and extinguishing forest fires
 
-Support for backfires and back burns
+* Support for backfires and back burns
 
-Controlled burning
+* Controlled burning
 
-Fire breaks
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4780b3d8-5273-4927-a9c6-35eeb7accbc5.png)
+* Fire breaks
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a1b30dc75f14d13b518a11328863a7931351ba8.png)
 
-Self-protection system for residential estates and other installations
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5ab1bb4-5742-4dac-bf9d-48a5323aa4b9.jpg)
+* Self-protection system for residential estates and other installations
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/acedf419f37cb3b70d739a08173297791244ce70.jpg)
 
-Personal protection in the event of emergency
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ae282a1-75c6-41fe-bcc5-0fc2d8720098.jpg)
+* Personal protection in the event of emergency
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43950c16f10abbd815970b8fb8297c2d3e8cb1d8.jpg)
 
-Emergency protection for natural surroundings
+* Emergency protection for natural surroundings
