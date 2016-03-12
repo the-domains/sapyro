@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "THE CONCEPT, \_ Behaviour of a fire-front upon meeting the barrier.\_"
-datePublished: '2016-03-12T14:06:53.777Z'
-dateModified: '2016-03-12T14:06:43.781Z'
+datePublished: '2016-03-12T14:25:03.785Z'
+dateModified: '2016-03-12T14:16:40.836Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
