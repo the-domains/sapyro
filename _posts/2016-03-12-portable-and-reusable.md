@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RAPID INSTALLATION WHEREVER NEEDED
-datePublished: '2016-03-12T16:42:20.146Z'
-dateModified: '2016-03-12T16:42:13.638Z'
+datePublished: '2016-03-12T16:42:34.606Z'
+dateModified: '2016-03-12T16:42:24.659Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
