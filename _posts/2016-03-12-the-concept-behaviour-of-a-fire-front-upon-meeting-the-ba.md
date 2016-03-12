@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: KNOW THE BASICS
-datePublished: '2016-03-12T18:48:23.738Z'
-dateModified: '2016-03-12T18:48:22.675Z'
+datePublished: '2016-03-12T18:50:57.773Z'
+dateModified: '2016-03-12T18:50:37.527Z'
 title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dced03ce-40e9-4b69-a78d-10386828223a.jpg)
