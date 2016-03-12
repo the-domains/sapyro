@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "THE CONCEPT, \_ Behaviour of a fire-front upon meeting the barrier.\_"
-datePublished: '2016-03-12T16:26:42.401Z'
-dateModified: '2016-03-12T16:26:39.423Z'
-title: ''
+description: "Behaviour of a fire-front upon meeting the barrier.\_"
+datePublished: '2016-03-12T16:29:08.701Z'
+dateModified: '2016-03-12T16:28:05.338Z'
+title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
 published: true
@@ -22,11 +22,7 @@ url: the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9d4d865-6ccf-403f-a1cd-512e723c7086.jpg)
-
-* **THE CONCEPT**,   Behaviour of a fire-front upon meeting the barrier
-
-**Heat reflection**, preventing heat radiation from passing through and also sending the heat reflected back into the burning area
+* **Heat reflection**, preventing heat radiation from passing through and also sending the heat reflected back into the burning area
 
 **Physical barrier**, against flames and hot gases, which by convection will tend to rise in front of the screen and will be affected by the wind dynamics
 
