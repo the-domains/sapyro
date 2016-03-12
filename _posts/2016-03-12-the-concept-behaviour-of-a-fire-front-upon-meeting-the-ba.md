@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Physical barrier, against flames and hot gases, which by convection will tend to rise in front of the screen and will be affected by the wind dynamics'
-datePublished: '2016-03-12T16:46:15.989Z'
-dateModified: '2016-03-12T16:46:08.158Z'
+datePublished: '2016-03-12T17:10:19.512Z'
+dateModified: '2016-03-12T17:09:56.377Z'
 title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
@@ -22,11 +22,13 @@ url: the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3df279d-f2b5-4469-9980-aa9350fb315b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dced03ce-40e9-4b69-a78d-10386828223a.jpg)
 
-* **Heat reflection**, preventing heat radiation from passing through and also sending the heat reflected back into the burning area
-* ****Physical barrier**, **against flames and hot gases, which by convection will tend to rise in front of the screen and will be affected by the wind dynamics
-* **Air suction**, towards the hot area from the cold area, produced by the depression of the rising convection current. This helps to stop the fire spreading under the barrier
+KNOW THE BASICS
+
+* **Heat reflection**, preventing heat radiation from passing through and efficiently sending back the reflected heat into the burning area
+* ****Physical barrier**, **against flames and hot gases, which by convection will tend to rise in front of the barrier being benefited by the wind dynamics creating a vertical fire wall preventing the fire to advance forward
+* **Air suction**, towards the hot area fire zone from the cold area, produced by the depression of the rising convection current. This helps to stop the fire spreading under the barrier and above the barrier becoming self-extinguished by lack of materials to burn
 * **Lightness**. The material is light enough to be transported and installed in mountainous terrain. It is also compact
 * **Strength**. The screen or barrier offers high resistance to three basic factors: I.**heat** - withstanding high temperatures without losing its qualities;  II.**flames** - it is fireproof and does not catch fire when it comes into contact with flames; or when **mechanically** stressed. Furthermore, its installation systems are III. **sufficiently stable**, mainly against the wind
 * **Adaptability.** The material used is easy to adapt to uneven, broken land, often rocky and overgrown
