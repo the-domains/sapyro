@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T18:47:27.368Z'
-dateModified: '2016-03-12T18:30:56.043Z'
+datePublished: '2016-03-12T18:47:45.631Z'
+dateModified: '2016-03-12T18:47:42.094Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -25,6 +25,8 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7376478-16fb-4629-9164-d8396715b394.png)
 
 > **MANY WAYS TO USE SAPYRO FOREST FIRE BARRIERS**
+> 
+> ********
 > 
 > ****
 > 
