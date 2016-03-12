@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: FOREST FIRES BARRIERS
-datePublished: '2016-03-12T14:22:28.811Z'
-dateModified: '2016-03-12T14:22:12.575Z'
-title: ''
+datePublished: '2016-03-12T16:15:39.090Z'
+dateModified: '2016-03-12T14:24:34.498Z'
+title: SAPYRO
 author: []
 sourcePath: _posts/2016-03-12-forest-fire-barriers.md
 published: true
