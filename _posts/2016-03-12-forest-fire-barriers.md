@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: HIGHLY EFFICIENT SYSTEM THAT ENABLES FAST REACTION
-datePublished: '2016-03-12T18:46:18.746Z'
-dateModified: '2016-03-12T18:46:15.543Z'
+datePublished: '2016-03-12T18:48:35.916Z'
+dateModified: '2016-03-12T18:48:33.825Z'
 title: FOREST FIRES BARRIERS
 author: []
 sourcePath: _posts/2016-03-12-forest-fire-barriers.md
