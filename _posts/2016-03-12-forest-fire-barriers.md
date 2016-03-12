@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: FOREST FIRE BARRIERS
-datePublished: '2016-03-12T12:35:54.959Z'
-dateModified: '2016-03-12T12:35:21.877Z'
+description: FOREST FIRES BARRIERS
+datePublished: '2016-03-12T14:22:28.811Z'
+dateModified: '2016-03-12T14:22:12.575Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-forest-fire-barriers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-forest-fire-barriers.md
-published: true
 url: forest-fire-barriers/index.html
 _type: Article
 
