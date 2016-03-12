@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: RAPID INSTALLATION WHEREVER NEEDED
-datePublished: '2016-03-12T16:05:11.943Z'
-dateModified: '2016-03-12T16:05:11.556Z'
+datePublished: '2016-03-12T16:15:10.425Z'
+dateModified: '2016-03-12T16:12:29.717Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
@@ -30,7 +30,7 @@ _type: Article
 **FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/94fa1575-a753-4185-af40-c2c8110e4506.png)
 
-Easy transportable for controlling and Extinguishing forest fires
+Easy transportable for controlling and extinguishing forest fires
 
 Support for backfires and back burns
 
@@ -40,8 +40,6 @@ Fire breaks
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4780b3d8-5273-4927-a9c6-35eeb7accbc5.png)
 
 Self-protection system for residential estates and other installations
-
-Special applications
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d5ab1bb4-5742-4dac-bf9d-48a5323aa4b9.jpg)
 
 Personal protection in the event of emergency
