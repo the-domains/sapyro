@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T19:21:18.290Z'
-dateModified: '2016-03-12T19:21:14.559Z'
+datePublished: '2016-03-12T19:21:31.504Z'
+dateModified: '2016-03-12T19:21:26.530Z'
 title: PORTABLE AND REUSABLE
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
