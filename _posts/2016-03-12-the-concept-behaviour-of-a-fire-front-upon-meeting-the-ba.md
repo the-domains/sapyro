@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "THE CONCEPT, \_ Behaviour of a fire-front upon meeting the barrier"
-datePublished: '2016-03-12T13:47:21.048Z'
-dateModified: '2016-03-12T13:45:17.202Z'
+description: "THE CONCEPT, \_ Behaviour of a fire-front upon meeting the barrier.\_"
+datePublished: '2016-03-12T14:06:53.777Z'
+dateModified: '2016-03-12T14:06:43.781Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
-published: true
 url: the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba/index.html
 _type: Article
 
@@ -34,6 +34,6 @@ Air suction, towards the hot area from the cold area, produced by the depression
 
 Lightness. The material is light enough to be transported and installed in mountainous terrain. It is also compact.
 
-Strength. The screen or barrier offers high resistance to three basic factors: heat - withstanding high temperatures without losing its qualities; flames - it is fireproof and does not catch firre when it comesinto contact with flames; or when mechanically stressed. Furthermore, its installation systems are sufficiently stable, mainly against the wind.
+Strength. The screen or barrier offers high resistance to three basic factors:  1.heat - withstanding high temperatures without losing its qualities;  2\. flames - it is fireproof and does not catch fire when it comes into contact with flames; or when mechanically stressed. Furthermore, its installation systems are 3\. sufficiently stable, mainly against the wind.
 
 Adaptability. The material used is easy to adapt to uneven, broken land, often rocky and overgrown.
