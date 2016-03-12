@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T17:57:01.171Z'
-dateModified: '2016-03-12T17:56:47.175Z'
+datePublished: '2016-03-12T18:08:39.041Z'
+dateModified: '2016-03-12T18:08:38.382Z'
 title: PORTABLE AND REUSABLE
 author: []
+sourcePath: _posts/2016-03-12-portable-and-reusable.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-portable-and-reusable.md
-published: true
 url: portable-and-reusable/index.html
 _type: Article
 
@@ -34,7 +34,6 @@ _type: Article
 * **Controlled seasonal burnings in agriculture**
 * **Fire breaks in forests**
 * **Self fire protection system for homes, houses and residential estates and other installations close to or inside forests or agricultural areas**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9fb94eb4-642e-4cec-89df-121ed9e6e44a.png)
 
 * **Personal and vehicles forest fire protection in the event of emergency**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/13411e26-56e6-463a-922d-6ba32a2bd1f9.jpg)
