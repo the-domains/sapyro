@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: KNOW THE BASICS
-datePublished: '2016-03-12T18:50:57.773Z'
-dateModified: '2016-03-12T18:50:37.527Z'
+datePublished: '2016-03-12T18:51:23.765Z'
+dateModified: '2016-03-12T18:51:02.720Z'
 title: THE CONCEPT
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
