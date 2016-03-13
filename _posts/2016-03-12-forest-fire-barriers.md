@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: HIGHLY EFFICIENT SYSTEM THAT ENABLES FAST REACTION
-datePublished: '2016-03-13T01:16:21.664Z'
-dateModified: '2016-03-13T01:16:14.033Z'
+datePublished: '2016-03-13T01:16:33.589Z'
+dateModified: '2016-03-13T01:16:29.875Z'
 title: SAPYRO FOREST FIRES BARRIERS
 author: []
 sourcePath: _posts/2016-03-12-forest-fire-barriers.md
