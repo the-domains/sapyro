@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-13T01:26:32.992Z'
-dateModified: '2016-03-13T01:26:25.623Z'
+datePublished: '2016-03-13T01:26:44.285Z'
+dateModified: '2016-03-13T01:26:40.991Z'
 title: LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
