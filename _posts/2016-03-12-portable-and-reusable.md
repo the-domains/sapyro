@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: FIRE BARRIER SYSTEM FOR CONTROLLING AND EXTINGUISHING FOREST FIRES
-datePublished: '2016-03-12T21:29:25.047Z'
-dateModified: '2016-03-12T21:29:06.989Z'
-title: PORTABLE AND REUSABLE
+datePublished: '2016-03-13T01:26:32.992Z'
+dateModified: '2016-03-13T01:26:25.623Z'
+title: LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS
 author: []
 sourcePath: _posts/2016-03-12-portable-and-reusable.md
 published: true
@@ -22,10 +22,10 @@ url: portable-and-reusable/index.html
 _type: Article
 
 ---
-LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS
+# LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7376478-16fb-4629-9164-d8396715b394.png)
 
-> **MANY WAYS TO USE **SAPYRO** FOREST FIRE BARRIERS**
+> **MANY WAYS TO USE **SAPYRO** FOREST FIRES BARRIERS**
 > 
 > ********
 > 
@@ -33,12 +33,12 @@ LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS
 > 
 > ********************
 > 
-> * Easy transportable for controlling and extinguishing forest fires
-> * Support for back fires and back burns in forest fires extinguishing works
+> * Easy transportable for controlling and extinguishing wildfires
+> * Support for back fires and back burns in wildfires extinguishing works
 > * Controlled seasonal burnings in agriculture
 > * Fire breaks in forests
 > * Fire protection system for private homes, houses and residential estates and other installations close to or inside forests or agricultural areas
-> * Personal and vehicles fire protection in the event of a forest fire
+> * Personal and vehicles fire protection in the event of a wildfire
 > * Fire emergency protection for natural surroundings 
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6c3588d-858e-4644-8e45-63d59e4999de.jpg)
