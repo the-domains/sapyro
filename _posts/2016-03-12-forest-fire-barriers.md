@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: HIGHLY EFFICIENT SYSTEM THAT ENABLES FAST REACTION
-datePublished: '2016-03-12T20:47:22.559Z'
-dateModified: '2016-03-12T20:47:09.764Z'
+datePublished: '2016-03-13T01:16:21.664Z'
+dateModified: '2016-03-13T01:16:14.033Z'
 title: SAPYRO FOREST FIRES BARRIERS
 author: []
 sourcePath: _posts/2016-03-12-forest-fire-barriers.md
@@ -22,9 +22,9 @@ url: forest-fires-barriers/index.html
 _type: Article
 
 ---
-HIGHLY EFFICIENT SYSTEM THAT ENABLES FAST REACTION
+HIGHLY EFFICIENT SYSTEM THAT ENABLES FAST, ACCURATE & SAFE REACTION TO WILD FIRES
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26aa37c8-e514-4576-a0ad-1aa6421b2495.jpg)
 
-> THE OPTIMAL WAY TO HANDLE FOREST FIRES
+> ## THE OPTIMAL WAY TO HANDLE FOREST FIRES
 
 CLOSE VIEW
