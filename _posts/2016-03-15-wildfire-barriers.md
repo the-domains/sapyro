@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: info@sapyro.com
-datePublished: '2016-03-15T20:35:14.250Z'
-dateModified: '2016-03-15T20:35:08.729Z'
+datePublished: '2016-03-15T20:35:54.294Z'
+dateModified: '2016-03-15T20:35:48.497Z'
 title: 'WILDFIRES BARRIERS, PORTABLE & REUSABLE'
 author: []
 sourcePath: _posts/2016-03-15-wildfire-barriers.md
