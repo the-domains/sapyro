@@ -4,7 +4,7 @@
         <description><![CDATA[SAPYRO]]></description>
         <link>http://www.sapyro.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 20:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 20:04:14 GMT</lastBuildDate>
         <atom:link href="http://www.sapyro.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS]]></title>
@@ -26,13 +26,6 @@
             <link>http://www.sapyro.com/forest-fires-barriers/index.html</link>
             <guid isPermaLink="false">fa00988a-2940-4182-b660-c671618b2f6d</guid>
             <pubDate>Sun, 13 Mar 2016 01:34:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Contact us ]]></title>
-            <description><![CDATA[<article><h1>Contact us </h1><p>info@sapyro.com</p></article>]]></description>
-            <link>http://www.sapyro.com/contact-us/index.html</link>
-            <guid isPermaLink="false">a5d67aa8-a2d5-44b1-b302-6ce40b4b6f78</guid>
-            <pubDate>Tue, 15 Mar 2016 20:03:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
