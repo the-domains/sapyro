@@ -4,7 +4,7 @@
         <description><![CDATA[SAPYRO]]></description>
         <link>https://thegrid.ai/sapyro/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 11:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2016 11:51:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sapyro/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[LIGHTWEIGHT ADVANCED COMPOSITE MATERIALS]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/sapyro/forest-fires-barriers/index.html</link>
             <guid isPermaLink="false">fa00988a-2940-4182-b660-c671618b2f6d</guid>
             <pubDate>Sun, 13 Mar 2016 01:34:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>SAPYRO</p>]]></description>
+            <link>https://thegrid.ai/sapyro/sapyro/index.html</link>
+            <guid isPermaLink="false">d6d8b42b-a4cf-4a5d-9bbf-c4e7ef8f327d</guid>
+            <pubDate>Tue, 15 Mar 2016 11:51:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
