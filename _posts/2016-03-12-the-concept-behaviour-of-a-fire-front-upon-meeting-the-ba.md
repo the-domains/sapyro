@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-06T21:08:06.367Z'
-dateModified: '2016-04-06T21:07:56.406Z'
+datePublished: '2016-04-06T21:11:26.764Z'
+dateModified: '2016-04-06T21:11:21.945Z'
 title: "KNOW THE BASICS \_"
 author: []
 sourcePath: _posts/2016-03-12-the-concept-behaviour-of-a-fire-front-upon-meeting-the-ba.md
@@ -26,7 +26,7 @@ _type: Article
 
 # KNOW THE BASICS  
 
-The **SAPYRO** fire barriers act on the three ways of conveying heat: **radiation**, **convection** and **conduction**. They prevent the radiating heat and the hot gases and flames from passing through the barrier, and keep the vegetation protected surrounded in a mass of colder air, at practically ambient temperature**.   **[**VIDEO**][0]
+The **SAPYRO** fire barriers act on the three ways of conveying heat: **radiation**, **convection** and **conduction**. They prevent the radiating heat and the hot gases and flames from passing through the barrier, and keep the vegetation protected surrounded in a mass of colder air, at practically ambient temperature**.   [WATCH][0]**
 
 * **Heat reflection****, **preventing heat radiation from passing through and efficiently sending back the reflected heat into the burning area
 * ****Physical barrier**, **against flames and hot gases, which by convection will tend to rise in front of the barrier being benefited by the wind dynamics creating a vertical fire wall preventing the fire to advance forward
